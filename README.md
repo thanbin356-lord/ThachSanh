@@ -36,7 +36,7 @@ Through this project, I improved my skills in:
 This project was created as a graduation project and as an opportunity to gain more experience in building a complete 3D action-adventure game pipeline.
 
 ## Demo + Trailer + Docx + Case Study
-*Demo: https://drive.google.com/file/d/16QjJtpJhGnJ70r1P7XzdQyboMzhojV6G/view?usp=sharing
-*Trailer: https://youtu.be/7kcCPTX1gAo
-*Docx: https://docs.google.com/document/d/1nT3ek43LkoaPXcytg9Yhkn4vGlWYvV_jMLILNsQ1AUI/edit?tab=t.0
-*GameArt: https://www.canva.com/design/DAG9FwrvbOo/xxS9G0hfoU9zx3bVn7hRow/edit
+* Demo: https://drive.google.com/file/d/16QjJtpJhGnJ70r1P7XzdQyboMzhojV6G/view?usp=sharing
+* Trailer: https://youtu.be/7kcCPTX1gAo
+* Docx: https://docs.google.com/document/d/1nT3ek43LkoaPXcytg9Yhkn4vGlWYvV_jMLILNsQ1AUI/edit?tab=t.0
+* GameArt: https://www.canva.com/design/DAG9FwrvbOo/xxS9G0hfoU9zx3bVn7hRow/edit
